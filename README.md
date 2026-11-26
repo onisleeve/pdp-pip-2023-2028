@@ -1,6 +1,6 @@
 # Philippine Development Plan 2023–2028 Traceability Project
 
- Ginawa ba nila ang mga ipinangako nilang gawin
+> Ginawa ba nila ang mga ipinangako nilang gawin?
 
 This project extracts the Philippine Development Plan (PDP) and Public Investment Program (PIP) so MCP or API tools can compare development commitments and planned investments with government budget and legislative records.
 
