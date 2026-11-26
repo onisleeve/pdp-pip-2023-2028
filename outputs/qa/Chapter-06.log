@@ -1,0 +1,10 @@
+2026-11-26 15:50:11,759	INFO	docling.document_converter: Going to convert document batch...
+2026-11-26 15:50:11,775	INFO	docling.document_converter: Initializing pipeline for StandardPdfPipeline with options hash c3f43c7ac2175a2e06bce2d63883d730
+2026-11-26 15:50:11,790	INFO	docling.models.utils.hf_model_download: Fetching model docling-project/docling-layout-heron (revision: main)...
+2026-11-26 15:50:12,134	INFO	docling.models.utils.hf_model_download: Model docling-project/docling-layout-heron already cached at C:\Users\admin\.cache\huggingface\hub\models--docling-project--docling-layout-heron\snapshots\8f39ad3c0b4c58e9c2d2c84a38465abf757272d8
+Loading weights:   0%|          | 0/770 [00:00<?, ?it/s]Loading weights:  33%|###3      | 256/770 [00:00<00:00, 2341.19it/s]Loading weights:  64%|######3   | 491/770 [00:00<00:00, 1907.27it/s]Loading weights: 100%|##########| 770/770 [00:00<00:00, 2898.66it/s]
+2026-11-26 15:50:12,884	INFO	docling.models.utils.hf_model_download: Fetching model docling-project/docling-models (revision: v2.3.0)...
+2026-11-26 15:50:13,181	INFO	docling.models.utils.hf_model_download: Model docling-project/docling-models already cached at C:\Users\admin\.cache\huggingface\hub\models--docling-project--docling-models\snapshots\fc0f2d45e2218ea24bce5045f58a389aed16dc23
+2026-11-26 15:50:13,728	INFO	docling.pipeline.base_pipeline: Processing document Chapter-06.pdf
+2026-11-26 15:50:31,353	WARNING	MatchingPostProcessor: 6 of 205 pdf cells matched neither a row nor a column band of the 4x4 grid and were dropped from the table
+2026-11-26 15:51:17,086	INFO	docling.document_converter: Finished converting document Chapter-06.pdf in 65.72 sec.

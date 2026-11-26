@@ -1,0 +1,4034 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.12.0",
+  "name": "Chapter-16",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 17104743375917231388,
+    "filename": "Chapter-16.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/tables/0"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/groups/4"
+      },
+      {
+        "$ref": "#/texts/68"
+      },
+      {
+        "$ref": "#/texts/69"
+      },
+      {
+        "$ref": "#/groups/5"
+      },
+      {
+        "$ref": "#/texts/72"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/27"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/30"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/32"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/61"
+        },
+        {
+          "$ref": "#/texts/62"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/65"
+        },
+        {
+          "$ref": "#/texts/66"
+        },
+        {
+          "$ref": "#/texts/67"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/70"
+        },
+        {
+          "$ref": "#/texts/71"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 90.0,
+            "t": 706.1401,
+            "r": 204.06,
+            "b": 681.2272003307608,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "PART V",
+      "text": "PART V"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 90.0,
+            "t": 608.6401,
+            "r": 458.685,
+            "b": 402.63079734513275,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            47
+          ]
+        }
+      ],
+      "orig": "Plan Implementation, Monitoring, and Evaluation",
+      "text": "Plan Implementation, Monitoring, and Evaluation"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 90.0,
+            "t": 622.0804,
+            "r": 209.745,
+            "b": 490.05219203539826,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "16",
+      "text": "16"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 90.0,
+            "t": 462.7802,
+            "r": 415.32,
+            "b": 365.8821313304721,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            47
+          ]
+        }
+      ],
+      "orig": "Plan Implementation, Monitoring, and Evaluation",
+      "text": "Plan Implementation, Monitoring, and Evaluation",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 90.0,
+            "t": 719.0001,
+            "r": 144.60999999999999,
+            "b": 710.0705225352112,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "CHAPTER 16",
+      "text": "CHAPTER 16"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 90.0,
+            "t": 692.0001,
+            "r": 473.9640000000001,
+            "b": 635.1619025751073,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            47
+          ]
+        }
+      ],
+      "orig": "Plan Implementation, Monitoring, and Evaluation",
+      "text": "Plan Implementation, Monitoring, and Evaluation",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 90.0,
+            "t": 618.0601,
+            "r": 549.0277999999998,
+            "b": 576.5662538461539,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            278
+          ]
+        }
+      ],
+      "orig": "Building on the gains of the previous Philippine Development Plan (PDP) 2017-2022 and learning from lessons of the coronavirus disease (COVID-19) pandemic, the PDP 2023-2028 shifts to higher gear toward economic transformation for a prosperous, inclusive, and resilient society.",
+      "text": "Building on the gains of the previous Philippine Development Plan (PDP) 2017-2022 and learning from lessons of the coronavirus disease (COVID-19) pandemic, the PDP 2023-2028 shifts to higher gear toward economic transformation for a prosperous, inclusive, and resilient society."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 90.0,
+            "t": 565.0601,
+            "r": 549.0267,
+            "b": 475.5662538461538,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            541
+          ]
+        }
+      ],
+      "orig": "This economic transformation calls for a whole-of-government and whole-of-society collaboration, which will be enabled through good governance, transparency, accountability, and evidence-based decision-making. Efficient and close coordination at various levels of government is crucial in implementation. The involvement and cooperation of the private sector during monitoring is deemed vital in ensuring that the government remains on track to achieving its targets. Timely assessment and evaluation will also be done to correct deviations.",
+      "text": "This economic transformation calls for a whole-of-government and whole-of-society collaboration, which will be enabled through good governance, transparency, accountability, and evidence-based decision-making. Efficient and close coordination at various levels of government is crucial in implementation. The involvement and cooperation of the private sector during monitoring is deemed vital in ensuring that the government remains on track to achieving its targets. Timely assessment and evaluation will also be done to correct deviations."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 90.0,
+            "t": 453.8001,
+            "r": 251.46,
+            "b": 437.20138755364803,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "Implementation",
+      "text": "Implementation",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 90.0,
+            "t": 419.60970000000003,
+            "r": 310.5144000000001,
+            "b": 200.95410040444892,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            560
+          ]
+        }
+      ],
+      "orig": "The government will set the necessary policies and regulatory environment and implement concrete programs, activities, and projects to achieve the targets set in the PDP 2023-2028. An executive order will be issued directing all government instrumentalities to adopt and align agency plans, roadmaps, and budgetary programs with the Plan. The National Economic and Development Authority (NEDA) Secretariat will work with implementing agencies on the prioritization of identified strategies, policies, programs, and projects, including the proposed legislation.",
+      "text": "The government will set the necessary policies and regulatory environment and implement concrete programs, activities, and projects to achieve the targets set in the PDP 2023-2028. An executive order will be issued directing all government instrumentalities to adopt and align agency plans, roadmaps, and budgetary programs with the Plan. The National Economic and Development Authority (NEDA) Secretariat will work with implementing agencies on the prioritization of identified strategies, policies, programs, and projects, including the proposed legislation."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 90.0,
+            "t": 183.60969999999998,
+            "r": 310.52279999999985,
+            "b": 76.95410040444892,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            278
+          ]
+        }
+      ],
+      "orig": "Given the interrelatedness of the strategies, inter-agency committees were identified to lead and coordinate the implementation of the Plan. They are enjoined to regularly discuss the status of the transformation agenda and pursue measures to expedite the rollout of strategies.",
+      "text": "Given the interrelatedness of the strategies, inter-agency committees were identified to lead and coordinate the implementation of the Plan. They are enjoined to regularly discuss the status of the transformation agenda and pursue measures to expedite the rollout of strategies."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 328.5,
+            "t": 419.60970000000003,
+            "r": 549.0048000000002,
+            "b": 344.954100404449,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            201
+          ]
+        }
+      ],
+      "orig": "The NEDA Board will oversee the implementation of measures that directly contribute to the achievement of the headline targets as enumerated in Chapter 1: A Plan for Economic and Social Transformation.",
+      "text": "The NEDA Board will oversee the implementation of measures that directly contribute to the achievement of the headline targets as enumerated in Chapter 1: A Plan for Economic and Social Transformation."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 328.5,
+            "t": 327.60970000000003,
+            "r": 549.0108000000004,
+            "b": 252.95410040444892,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            174
+          ]
+        }
+      ],
+      "orig": "Meanwhile, the NEDA Board Committees and existing clusters will steer the implementation of the chapter strategies. Table 16.1 lists the lead inter-agencies for the chapters.",
+      "text": "Meanwhile, the NEDA Board Committees and existing clusters will steer the implementation of the chapter strategies. Table 16.1 lists the lead inter-agencies for the chapters."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 328.5,
+            "t": 235.60969999999998,
+            "r": 549.024,
+            "b": 96.95410040444892,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            355
+          ]
+        }
+      ],
+      "orig": "The Social Development Committee will take the lead in ensuring that strategies are implemented to achieve the targets under Chapter 2: Promote Human Capital and Social Development. The Social Development Committee will also push for measures to increase the income-earning ability of Filipinos as identified in Chapter 4: Increase Income-Earning Ability.",
+      "text": "The Social Development Committee will take the lead in ensuring that strategies are implemented to achieve the targets under Chapter 2: Promote Human Capital and Social Development. The Social Development Committee will also push for measures to increase the income-earning ability of Filipinos as identified in Chapter 4: Increase Income-Earning Ability."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 296.2827,
+            "t": 38.8338,
+            "r": 549.0002000000001,
+            "b": 30.706107692307683,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            64
+          ]
+        }
+      ],
+      "orig": "Chapter 16 Plan Implementation, Monitoring, and Evaluation | 365",
+      "text": "Chapter 16 Plan Implementation, Monitoring, and Evaluation | 365"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/tables/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 63.0,
+            "t": 719.0001,
+            "r": 216.04899999999992,
+            "b": 710.0705225352112,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "Table 16.1 Coordination Mechanism",
+      "text": "Table 16.1 Coordination Mechanism"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/tables/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 63.0,
+            "t": 403.33840000000004,
+            "r": 205.87039999999988,
+            "b": 396.2592622754491,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "* Or the equivalent NEDA Board Committee.",
+      "text": "* Or the equivalent NEDA Board Committee."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 63.0,
+            "t": 371.3424,
+            "r": 283.52279999999985,
+            "b": 200.68680040444895,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            420
+          ]
+        }
+      ],
+      "orig": "The Economic Development Cluster or the equivalent NEDA Board Committee will ensure that measures identified in Chapter 3: Reduce Vulnerabilities and Protect Purchasing Power are pursued. The EDC will also expedite the implementation of measures to transform the production sectors, as identified in Chapter 5: Modernize Agriculture and Agribusiness, Chapter 6: Revitalize Industry, and Chapter 7: Reinvigorate Services.",
+      "text": "The Economic Development Cluster or the equivalent NEDA Board Committee will ensure that measures identified in Chapter 3: Reduce Vulnerabilities and Protect Purchasing Power are pursued. The EDC will also expedite the implementation of measures to transform the production sectors, as identified in Chapter 5: Modernize Agriculture and Agribusiness, Chapter 6: Revitalize Industry, and Chapter 7: Reinvigorate Services."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 63.0,
+            "t": 183.3424,
+            "r": 283.52400000000006,
+            "b": 76.68680040444895,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            276
+          ]
+        }
+      ],
+      "orig": "The National Innovation Council will steer the implementation of measures to advance research and development, technology, and innovation (Chapter 8: Advance Research and Development, Technology, and Innovation), driving an innovation-based transformation for various sectors.",
+      "text": "The National Innovation Council will steer the implementation of measures to advance research and development, technology, and innovation (Chapter 8: Advance Research and Development, Technology, and Innovation), driving an innovation-based transformation for various sectors."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 301.5,
+            "t": 371.3424,
+            "r": 522.0228000000002,
+            "b": 152.68680040444895,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            515
+          ]
+        }
+      ],
+      "orig": "The transformation agenda will also be supported by strategies that promote trade and investments (Chapter 9: Promote Trade and Investments), to be steered by the Inter-Agency Investment Promotions Coordination Committee, and the tariff and non-tariff policies to be tackled by the Committee on Tariff-Related Matters. Policies promoting competition and improving regulatory efficiency (Chapter 10: Promote Competition and Improve Regulatory Efficiency) will be led by the Inter-Agency Committee on Good Governance.",
+      "text": "The transformation agenda will also be supported by strategies that promote trade and investments (Chapter 9: Promote Trade and Investments), to be steered by the Inter-Agency Investment Promotions Coordination Committee, and the tariff and non-tariff policies to be tackled by the Committee on Tariff-Related Matters. Policies promoting competition and improving regulatory efficiency (Chapter 10: Promote Competition and Improve Regulatory Efficiency) will be led by the Inter-Agency Committee on Good Governance."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 301.5,
+            "t": 135.3424,
+            "r": 522.0108000000001,
+            "b": 76.68680040444895,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            147
+          ]
+        },
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 90.0,
+            "t": 719.0881,
+            "r": 310.50789999999995,
+            "b": 612.432500404449,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            148,
+            426
+          ]
+        }
+      ],
+      "orig": "To promote macroeconomic stability (Chapter 11: Ensure Macroeconomic Stability and Expand Inclusive and Innovative Finance), the Development Budget Coordination Committee will ensure that fiscal and financial policies are sound and supportive of transformation. Meanwhile, the Infrastructure Committee will pursue the expansion and upgrading of the country's infrastructure (See Chapter 12: Expand and Upgrade Infrastructure).",
+      "text": "To promote macroeconomic stability (Chapter 11: Ensure Macroeconomic Stability and Expand Inclusive and Innovative Finance), the Development Budget Coordination Committee will ensure that fiscal and financial policies are sound and supportive of transformation. Meanwhile, the Infrastructure Committee will pursue the expansion and upgrading of the country's infrastructure (See Chapter 12: Expand and Upgrade Infrastructure)."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 63.0,
+            "t": 38.8338,
+            "r": 235.13220000000013,
+            "b": 30.706107692307683,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "366 | Philippine Development Plan 2023-2028",
+      "text": "366 | Philippine Development Plan 2023-2028"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 90.0,
+            "t": 595.0881,
+            "r": 310.5204,
+            "b": 488.43250040444894,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            264
+          ]
+        },
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 328.5,
+            "t": 719.0881,
+            "r": 549.0228000000001,
+            "b": 516.432500404449,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            265,
+            792
+          ]
+        }
+      ],
+      "orig": "For Chapter 13: Ensure Peace and Security and Enhance the Administration of Justice, the National Security Council will lead the implementation of strategies to ensure peace and security (See Subchapter 13.1) while the Justice Sector Coordinating Council will have oversight on enhancing administration of justice (See Subchapter 13.2). Meanwhile, good governance and the enhancement of bureaucratic efficiency (Chapter 14: Practice Good Governance and Improve Bureaucratic Efficiency) will be steered by the Inter-Agency Committee on Good Governance; and the acceleration of climate action and disaster resilience (Chapter 15: Accelerate Climate Action and Strengthen Disaster Resilience) will be steered by the Cluster on Climate Change, Adaptation, Mitigation, and Disaster Risk Reduction.",
+      "text": "For Chapter 13: Ensure Peace and Security and Enhance the Administration of Justice, the National Security Council will lead the implementation of strategies to ensure peace and security (See Subchapter 13.1) while the Justice Sector Coordinating Council will have oversight on enhancing administration of justice (See Subchapter 13.2). Meanwhile, good governance and the enhancement of bureaucratic efficiency (Chapter 14: Practice Good Governance and Improve Bureaucratic Efficiency) will be steered by the Inter-Agency Committee on Good Governance; and the acceleration of climate action and disaster resilience (Chapter 15: Accelerate Climate Action and Strengthen Disaster Resilience) will be steered by the Cluster on Climate Change, Adaptation, Mitigation, and Disaster Risk Reduction."
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 90.0,
+            "t": 469.2761,
+            "r": 358.5399999999999,
+            "b": 452.67738755364803,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "Monitoring and Evaluation",
+      "text": "Monitoring and Evaluation",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 90.0,
+            "t": 435.08570000000003,
+            "r": 310.52279999999996,
+            "b": 248.43010040444892,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            507
+          ]
+        }
+      ],
+      "orig": "The progress toward achievement of the identified outcomes will be monitored and assessed using indicators and interim targets as identified in the accompanying Results Matrix (RM). The RM was instituted in 2011 as an instrument designed to provide results orientation to the Plan. It is anchored on results-based management, which highlights the achievement of outcomes and impact. It aims to strengthen government-wide results orientation, which shall allow for regular performance assessment of the Plan.",
+      "text": "The progress toward achievement of the identified outcomes will be monitored and assessed using indicators and interim targets as identified in the accompanying Results Matrix (RM). The RM was instituted in 2011 as an instrument designed to provide results orientation to the Plan. It is anchored on results-based management, which highlights the achievement of outcomes and impact. It aims to strengthen government-wide results orientation, which shall allow for regular performance assessment of the Plan."
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 90.0,
+            "t": 231.08569999999997,
+            "r": 310.51079999999996,
+            "b": 76.43010040444892,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            423
+          ]
+        },
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 328.5,
+            "t": 435.08570000000003,
+            "r": 549.0204000000001,
+            "b": 392.430100404449,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            424,
+            518
+          ]
+        }
+      ],
+      "orig": "The RM is a living document that should be referred to and updated regularly to ensure responsiveness to the country's continuously evolving development landscape. To assess the progress toward achieving the Plan, the NEDA Secretariat shall annually prepare the Socioeconomic Report (SER) to present actual accomplishments in terms of outputs and outcomes as contained in the PDP and the RM. This report shall also identify key challenges toward the achievement of results and provide policy directions moving forward.",
+      "text": "The RM is a living document that should be referred to and updated regularly to ensure responsiveness to the country's continuously evolving development landscape. To assess the progress toward achieving the Plan, the NEDA Secretariat shall annually prepare the Socioeconomic Report (SER) to present actual accomplishments in terms of outputs and outcomes as contained in the PDP and the RM. This report shall also identify key challenges toward the achievement of results and provide policy directions moving forward."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 328.5,
+            "t": 382.08570000000003,
+            "r": 549.0216000000005,
+            "b": 275.4301004044489,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            278
+          ]
+        }
+      ],
+      "orig": "Gaps and weaknesses in data generation (e.g., unavailable regional breakdown, absence of appropriate methodology to measure indicator progress) for the monitoring of the Plan will likewise be identified in the SER. To address the gaps, the following strategies will be employed:",
+      "text": "Gaps and weaknesses in data generation (e.g., unavailable regional breakdown, absence of appropriate methodology to measure indicator progress) for the monitoring of the Plan will likewise be identified in the SER. To address the gaps, the following strategies will be employed:"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 328.9,
+            "t": 258.0857,
+            "r": 549.0228000000001,
+            "b": 71.43010040444892,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            445
+          ]
+        }
+      ],
+      "orig": "(a) Strengthening the collection of data. The Philippine Statistics Development Program will remain the primary mechanism to address the data requirements for the monitoring of the PDP and other sectoral plans and regional plans. It is envisioned to set the directions, thrusts, and priorities of the Philippine Statistical System in the medium term for the generation and dissemination of statistical information for policy- and decision-making",
+      "text": "(a) Strengthening the collection of data. The Philippine Statistics Development Program will remain the primary mechanism to address the data requirements for the monitoring of the PDP and other sectoral plans and regional plans. It is envisioned to set the directions, thrusts, and priorities of the Philippine Statistical System in the medium term for the generation and dissemination of statistical information for policy- and decision-making",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 296.2827,
+            "t": 38.8338,
+            "r": 549.0002000000001,
+            "b": 30.706107692307683,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            64
+          ]
+        }
+      ],
+      "orig": "Chapter 16 Plan Implementation, Monitoring, and Evaluation | 367",
+      "text": "Chapter 16 Plan Implementation, Monitoring, and Evaluation | 367"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 81.0,
+            "t": 719.0881,
+            "r": 283.50960000000003,
+            "b": 692.432500404449,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "of the government, private sector, and general public.",
+      "text": "of the government, private sector, and general public."
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 63.4,
+            "t": 675.0881,
+            "r": 283.524,
+            "b": 440.43250040444894,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            540
+          ]
+        }
+      ],
+      "orig": "(b) Improving analysis, reporting, and use of monitoring data. Making the information on the annual accomplishment of RM indicators and the likelihood of attaining end-of-plan targets available in an online platform is important in maintaining public accountability and enhancing stakeholder engagement. This may be facilitated through the use of data visualization solutions such as storyboards, infographics, and dashboards, among others. Following the open data policy of the government, the creation of such a platform shall improve the",
+      "text": "(b) Improving analysis, reporting, and use of monitoring data. Making the information on the annual accomplishment of RM indicators and the likelihood of attaining end-of-plan targets available in an online platform is important in maintaining public accountability and enhancing stakeholder engagement. This may be facilitated through the use of data visualization solutions such as storyboards, infographics, and dashboards, among others. Following the open data policy of the government, the creation of such a platform shall improve the",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 319.5,
+            "t": 719.0881,
+            "r": 522.0096000000001,
+            "b": 692.432500404449,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "accessibility and comprehension of PDP monitoring data.",
+      "text": "accessibility and comprehension of PDP monitoring data."
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 301.9,
+            "t": 678.0881,
+            "r": 522.0108,
+            "b": 427.43250040444894,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            637
+          ]
+        }
+      ],
+      "orig": "(c) Enhancing capacities to monitor the Plan. The reporting agencies identified in the RM should continue to enhance their capacities to monitor the Plan toward ensuring the provision of quality and timely data. To facilitate this, human and financial resources to strengthen capacities for data collection, analysis, and reporting, as well as statistical literacy at the national and sub-national levels should be adequately allocated. Stronger partnerships with development partners, civil society organizations, and academe shall be pursued to support continuous enhancement of knowledge, skills, processes, and systems on monitoring.",
+      "text": "(c) Enhancing capacities to monitor the Plan. The reporting agencies identified in the RM should continue to enhance their capacities to monitor the Plan toward ensuring the provision of quality and timely data. To facilitate this, human and financial resources to strengthen capacities for data collection, analysis, and reporting, as well as statistical literacy at the national and sub-national levels should be adequately allocated. Stronger partnerships with development partners, civil society organizations, and academe shall be pursued to support continuous enhancement of knowledge, skills, processes, and systems on monitoring.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 63.0,
+            "t": 408.2761,
+            "r": 438.0200000000001,
+            "b": 367.67738755364803,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            63
+          ]
+        }
+      ],
+      "orig": "Evaluation Agenda for the Philippine Development Plan 2023-2028",
+      "text": "Evaluation Agenda for the Philippine Development Plan 2023-2028",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 63.0,
+            "t": 350.08570000000003,
+            "r": 283.5096,
+            "b": 195.43010040444892,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            409
+          ]
+        },
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 301.5,
+            "t": 350.08570000000003,
+            "r": 521.9976000000001,
+            "b": 307.430100404449,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            410,
+            502
+          ]
+        }
+      ],
+      "orig": "NEDA and the Department of Budget and Management (DBM) adopted the National Evaluation Policy (NEP) Framework in 2015 1 in line with the government's continuing efforts to strengthen its results orientation (See Figure 16.1). The National Evaluation Policy Framework underscores the need to develop an evaluative culture in the government by providing the framework for the purposive conduct of evaluations in support of good governance, transparency, accountability, and evidence-based decisionmaking.",
+      "text": "NEDA and the Department of Budget and Management (DBM) adopted the National Evaluation Policy (NEP) Framework in 2015 1 in line with the government's continuing efforts to strengthen its results orientation (See Figure 16.1). The National Evaluation Policy Framework underscores the need to develop an evaluative culture in the government by providing the framework for the purposive conduct of evaluations in support of good governance, transparency, accountability, and evidence-based decisionmaking."
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 301.5,
+            "t": 292.08570000000003,
+            "r": 522.0336000000004,
+            "b": 217.43010040444892,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            214
+          ]
+        }
+      ],
+      "orig": "As NEDA takes the lead in the formulation of the PDP and oversees its implementation, the agency is in the strategic position to be at the helm in the systematic, rigorous, and impartial assessment of its progress.",
+      "text": "As NEDA takes the lead in the formulation of the PDP and oversees its implementation, the agency is in the strategic position to be at the helm in the systematic, rigorous, and impartial assessment of its progress."
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 63.0,
+            "t": 38.8338,
+            "r": 235.13220000000013,
+            "b": 30.706107692307683,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "368 | Philippine Development Plan 2023-2028",
+      "text": "368 | Philippine Development Plan 2023-2028"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 90.0,
+            "t": 719.0001,
+            "r": 366.6969999999999,
+            "b": 710.0705225352112,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            61
+          ]
+        }
+      ],
+      "orig": "Figure 16.1 Evaluation and the Public Sector Management Cycle",
+      "text": "Figure 16.1 Evaluation and the Public Sector Management Cycle"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 293.6415,
+            "t": 558.1539329999999,
+            "r": 355.30631400000016,
+            "b": 548.0955670076336,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "NATIONAL",
+      "text": "NATIONAL"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 280.565156,
+            "t": 544.732533,
+            "r": 368.38265800000033,
+            "b": 534.6741670076336,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "DEVELOPMENT",
+      "text": "DEVELOPMENT"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 304.8481955,
+            "t": 531.311133,
+            "r": 344.11081400000006,
+            "b": 521.2527670076337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "GOALS",
+      "text": "GOALS"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 292.4591,
+            "t": 652.72861,
+            "r": 360.09514939999997,
+            "b": 646.0757000704225,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "PLAN FOR RESULTS",
+      "text": "PLAN FOR RESULTS"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 282.6592619,
+            "t": 642.1704892,
+            "r": 370.13009404999974,
+            "b": 635.4649418488549,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "Indicators with target are",
+      "text": "Indicators with target are"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 275.4162,
+            "t": 633.2245982000001,
+            "r": 377.37034199999994,
+            "b": 626.5190508488549,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "specified each level of results",
+      "text": "specified each level of results"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 208.9533,
+            "t": 461.95041,
+            "r": 274.4614485299999,
+            "b": 455.29750007042253,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "MONITOR RESULTS",
+      "text": "MONITOR RESULTS"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 193.7572068,
+            "t": 451.3922892,
+            "r": 289.8896627999998,
+            "b": 444.686741848855,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "Defined indicators are used",
+      "text": "Defined indicators are used"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 200.8772,
+            "t": 442.4459982,
+            "r": 282.7689163999998,
+            "b": 435.740450848855,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "to track achievement of",
+      "text": "to track achievement of"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 216.9355,
+            "t": 433.4985982,
+            "r": 266.7295745499999,
+            "b": 426.793050848855,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "agreed results",
+      "text": "agreed results"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 362.4879,
+            "t": 461.95041,
+            "r": 451.9328808,
+            "b": 455.29750007042253,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "IMPLEMENT FOR RESULTS",
+      "text": "IMPLEMENT FOR RESULTS"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 360.8682771,
+            "t": 451.3922892,
+            "r": 453.79134209999995,
+            "b": 444.686741848855,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "Policies, people, processes",
+      "text": "Policies, people, processes"
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 358.5085,
+            "t": 442.4459982,
+            "r": 456.12623229999997,
+            "b": 435.740450848855,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "oriented to deliver intended",
+      "text": "oriented to deliver intended"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 395.6193,
+            "t": 433.4985982,
+            "r": 419.055318,
+            "b": 426.793050848855,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "results",
+      "text": "results"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 447.2276,
+            "t": 562.2265100000001,
+            "r": 524.73140717,
+            "b": 555.5736000704226,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "BUDGET FOR RESULTS",
+      "text": "BUDGET FOR RESULTS"
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 441.7417805,
+            "t": 551.6683892000001,
+            "r": 530.33888498,
+            "b": 544.962841848855,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "Budget supports planned",
+      "text": "Budget supports planned"
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 455.3761,
+            "t": 542.7221982000001,
+            "r": 516.7127865999998,
+            "b": 536.016650848855,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "national priorities",
+      "text": "national priorities"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 124.4345,
+            "t": 564.9801100000001,
+            "r": 192.6452542999998,
+            "b": 558.3272000704226,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "EVALUATE RESULTS",
+      "text": "EVALUATE RESULTS"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 116.7394253,
+            "t": 554.4219892000001,
+            "r": 200.4597481999998,
+            "b": 547.716441848855,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "Evaluation methodology",
+      "text": "Evaluation methodology"
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 106.1736,
+            "t": 545.4756982,
+            "r": 211.03858499999993,
+            "b": 538.7701508488549,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "enables assessment of results",
+      "text": "enables assessment of results"
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 105.758,
+            "t": 536.5282982000001,
+            "r": 211.45145569999983,
+            "b": 529.822750848855,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "and informed decision-making",
+      "text": "and informed decision-making"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 90.0,
+            "t": 390.5571,
+            "r": 549.0099000000006,
+            "b": 367.56285449101796,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            313
+          ]
+        }
+      ],
+      "orig": "Source: Asian Development Bank. (2011). Framework for Results-Based Public Sector Management and Country Cases. Asia-Pacific Community of Practice on Managing for Development Results. Manila. https://www.oecd.org/dac/peer-reviews/Asia%20pacific%20cop%202011%20Framework%20for%20RBPSM%20 and%20Country%20Cases.pdf.",
+      "text": "Source: Asian Development Bank. (2011). Framework for Results-Based Public Sector Management and Country Cases. Asia-Pacific Community of Practice on Managing for Development Results. Manila. https://www.oecd.org/dac/peer-reviews/Asia%20pacific%20cop%202011%20Framework%20for%20RBPSM%20 and%20Country%20Cases.pdf."
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 90.0,
+            "t": 351.51210000000003,
+            "r": 310.524,
+            "b": 84.85650040444898,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            680
+          ]
+        }
+      ],
+      "orig": "A national evaluation agenda will be crafted to set out the priority evaluations that the government will pursue as a means of measuring and obtaining evidence on results derived from strategies and priority interventions laid out in the plan and the RM. Evaluation will particularly play key roles in (a) informing further articulation of the PDP and implementation of programs; (b) conveying progress achieved against priority areas of investment; and (c) promoting transparency and accountability by making evaluation results accessible to all branches of government, and most importantly, to the public. Toward this end, the government will adopt the following key strategies:",
+      "text": "A national evaluation agenda will be crafted to set out the priority evaluations that the government will pursue as a means of measuring and obtaining evidence on results derived from strategies and priority interventions laid out in the plan and the RM. Evaluation will particularly play key roles in (a) informing further articulation of the PDP and implementation of programs; (b) conveying progress achieved against priority areas of investment; and (c) promoting transparency and accountability by making evaluation results accessible to all branches of government, and most importantly, to the public. Toward this end, the government will adopt the following key strategies:"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 328.5,
+            "t": 351.51210000000003,
+            "r": 549.0239999999999,
+            "b": 164.85650040444898,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            445
+          ]
+        }
+      ],
+      "orig": "(a) Undertake scoping studies to identify knowledge gaps and the corresponding evaluation studies to create evidence that will inform the implementation of priority programs and projects of this administration. These evaluative studies are also intended to inform updating of the current PDP and the formulation of the successor Plan. Agencies should draw on existing evaluation initiatives if available; if not, evaluations may be commissioned.",
+      "text": "(a) Undertake scoping studies to identify knowledge gaps and the corresponding evaluation studies to create evidence that will inform the implementation of priority programs and projects of this administration. These evaluative studies are also intended to inform updating of the current PDP and the formulation of the successor Plan. Agencies should draw on existing evaluation initiatives if available; if not, evaluations may be commissioned.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 328.5,
+            "t": 147.51210000000003,
+            "r": 549.0227999999995,
+            "b": 72.85650040444898,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            188
+          ]
+        }
+      ],
+      "orig": "(b) Strengthen the collection, analysis, and use of evaluation data to promote evidence-based and data-driven decision-making. At the outcome level of the PDP, the government will continue",
+      "text": "(b) Strengthen the collection, analysis, and use of evaluation data to promote evidence-based and data-driven decision-making. At the outcome level of the PDP, the government will continue",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 296.2827,
+            "t": 38.8338,
+            "r": 549.0002000000001,
+            "b": 30.706107692307683,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            64
+          ]
+        }
+      ],
+      "orig": "Chapter 16 Plan Implementation, Monitoring, and Evaluation | 369",
+      "text": "Chapter 16 Plan Implementation, Monitoring, and Evaluation | 369"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 81.0,
+            "t": 719.0881,
+            "r": 283.52279999999985,
+            "b": 644.432500404449,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            179
+          ]
+        }
+      ],
+      "orig": "to collect data on the situation of the Filipino people through regular surveys and explore the application of new and innovative methods to gather data to be used for evaluation.",
+      "text": "to collect data on the situation of the Filipino people through regular surveys and explore the application of new and innovative methods to gather data to be used for evaluation."
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 63.0,
+            "t": 627.0881,
+            "r": 283.52280000000013,
+            "b": 456.43250040444894,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            415
+          ]
+        }
+      ],
+      "orig": "(c) Support the enactment of a National Evaluation Policy to accelerate efforts in institutionalizing evaluation practice in the government. The National Evaluation Policy comprises necessary instruments for guiding the practice of monitoring and evaluation within national development programs as they provide principles and standards for data collection and management, utilization, and financing, among others. 2",
+      "text": "(c) Support the enactment of a National Evaluation Policy to accelerate efforts in institutionalizing evaluation practice in the government. The National Evaluation Policy comprises necessary instruments for guiding the practice of monitoring and evaluation within national development programs as they provide principles and standards for data collection and management, utilization, and financing, among others. 2",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 63.0,
+            "t": 439.0881,
+            "r": 283.5107999999999,
+            "b": 268.432500404449,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            427
+          ]
+        }
+      ],
+      "orig": "(d) Strengthen the capacity of agencies to conduct and utilize evaluations. To effectively develop capacities, technical knowledge of evaluations at the individual level should be complemented by opportunities for hands-on application. Nevertheless, the government should also aim to establish a structured training program for evaluation that is widely available, along with supplementary learning resources such as handbooks.",
+      "text": "(d) Strengthen the capacity of agencies to conduct and utilize evaluations. To effectively develop capacities, technical knowledge of evaluations at the individual level should be complemented by opportunities for hands-on application. Nevertheless, the government should also aim to establish a structured training program for evaluation that is widely available, along with supplementary learning resources such as handbooks.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 301.5,
+            "t": 720.1850000000001,
+            "r": 522.0240000000001,
+            "b": 405.52940040444895,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            727
+          ]
+        }
+      ],
+      "orig": "(e) Effectively communicate evaluation findings to increase utilization and influence of evaluations. Capacity development and the practice of evaluations will be supported by a culture of evidence-based decision-making to ensure its mainstreaming. This entails having an institutionalized evaluation unit to manage and advocate for evaluation activities within each agency of the bureaucracy. This unit will ensure that prioritization and utilization of evaluations are integrated into higher-level processes such as agency planning and project development. Documentation of monitoring and evaluation activities and learning also ensure that new program teams can leverage institutional knowledge built from previous projects.",
+      "text": "(e) Effectively communicate evaluation findings to increase utilization and influence of evaluations. Capacity development and the practice of evaluations will be supported by a culture of evidence-based decision-making to ensure its mainstreaming. This entails having an institutionalized evaluation unit to manage and advocate for evaluation activities within each agency of the bureaucracy. This unit will ensure that prioritization and utilization of evaluations are integrated into higher-level processes such as agency planning and project development. Documentation of monitoring and evaluation activities and learning also ensure that new program teams can leverage institutional knowledge built from previous projects.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 301.5,
+            "t": 388.185,
+            "r": 522.024,
+            "b": 265.529400404449,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            283
+          ]
+        }
+      ],
+      "orig": "The NEDA Secretariat will also consult with the PDP Advisory Committee on the assessment of strategies and their effectiveness in achieving the targets and outcomes. The PDP Advisory Committee will be convened during the midterm update preparations, and more frequently if necessary.",
+      "text": "The NEDA Secretariat will also consult with the PDP Advisory Committee on the assessment of strategies and their effectiveness in achieving the targets and outcomes. The PDP Advisory Committee will be convened during the midterm update preparations, and more frequently if necessary."
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 63.0,
+            "t": 38.8338,
+            "r": 235.13220000000013,
+            "b": 30.706107692307683,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "370 | Philippine Development Plan 2023-2028",
+      "text": "370 | Philippine Development Plan 2023-2028"
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 90.0,
+            "t": 719.77446,
+            "r": 540.8442,
+            "b": 696.5284615384616,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            390
+          ]
+        }
+      ],
+      "orig": "1 National Economic and Development Authority and Department of Budget and Management. (2015). Joint Memorandum Circular No. 2015-01: National Evaluation Policy Framework of the Philippines. July 15, 2015. Retrieved from https://nep.neda.gov.ph/document/NEDA-DBM%20Joint%20Memorandum%20 Circular%20No.%202015-01%20-%20National%20Evaluation%20Policy%20Framework%20of%20the%20Philippines.pdf.",
+      "text": "1 National Economic and Development Authority and Department of Budget and Management. (2015). Joint Memorandum Circular No. 2015-01: National Evaluation Policy Framework of the Philippines. July 15, 2015. Retrieved from https://nep.neda.gov.ph/document/NEDA-DBM%20Joint%20Memorandum%20 Circular%20No.%202015-01%20-%20National%20Evaluation%20Policy%20Framework%20of%20the%20Philippines.pdf.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 90.0,
+            "t": 691.51446,
+            "r": 533.4146000000002,
+            "b": 676.6684615384615,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            265
+          ]
+        }
+      ],
+      "orig": "2 Mwaijande, F. (2018). Why Should Countries Have National Evaluation Policies? eVALUation Matters. Retrieved from https://idev.afdb.org/sites/default/files/ Evaluations/2020-03/Why%20Should%20Countries%20have%20National%20Evaluation%20Policies_F%20Mwaijande_0.pdf.",
+      "text": "2 Mwaijande, F. (2018). Why Should Countries Have National Evaluation Policies? eVALUation Matters. Retrieved from https://idev.afdb.org/sites/default/files/ Evaluations/2020-03/Why%20Should%20Countries%20have%20National%20Evaluation%20Policies_F%20Mwaijande_0.pdf.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 296.2827,
+            "t": 38.8338,
+            "r": 549.0002000000001,
+            "b": 30.706107692307683,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            64
+          ]
+        }
+      ],
+      "orig": "Chapter 16 Plan Implementation, Monitoring, and Evaluation | 371",
+      "text": "Chapter 16 Plan Implementation, Monitoring, and Evaluation | 371"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/2"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 89.38130950927734,
+            "t": 624.7479858398438,
+            "r": 211.62767028808594,
+            "b": 492.7073669433594,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "image": {
+        "mimetype": "image/png",
+        "dpi": 144,
+        "size": {
+          "width": 244.0,
+          "height": 264.0
+        },
+        "uri": "Chapter-16_artifacts/image_000000_1b45fed42f465fa4432aabe57979acb3b8d512e62c97f56d93232cffc3ed42a7.png"
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/37"
+        },
+        {
+          "$ref": "#/texts/38"
+        },
+        {
+          "$ref": "#/texts/39"
+        },
+        {
+          "$ref": "#/texts/40"
+        },
+        {
+          "$ref": "#/texts/41"
+        },
+        {
+          "$ref": "#/texts/42"
+        },
+        {
+          "$ref": "#/texts/43"
+        },
+        {
+          "$ref": "#/texts/44"
+        },
+        {
+          "$ref": "#/texts/45"
+        },
+        {
+          "$ref": "#/texts/46"
+        },
+        {
+          "$ref": "#/texts/47"
+        },
+        {
+          "$ref": "#/texts/48"
+        },
+        {
+          "$ref": "#/texts/49"
+        },
+        {
+          "$ref": "#/texts/50"
+        },
+        {
+          "$ref": "#/texts/51"
+        },
+        {
+          "$ref": "#/texts/52"
+        },
+        {
+          "$ref": "#/texts/53"
+        },
+        {
+          "$ref": "#/texts/54"
+        },
+        {
+          "$ref": "#/texts/55"
+        },
+        {
+          "$ref": "#/texts/56"
+        },
+        {
+          "$ref": "#/texts/57"
+        },
+        {
+          "$ref": "#/texts/58"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 96.51799774169922,
+            "t": 692.1117782592773,
+            "r": 542.6461791992188,
+            "b": 417.6937561035156,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/37"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "image": {
+        "mimetype": "image/png",
+        "dpi": 144,
+        "size": {
+          "width": 892.0,
+          "height": 549.0
+        },
+        "uri": "Chapter-16_artifacts/image_000001_81aad35ef3e8b1cf60d6dd9224357063f3327abcfbbd398bd753a669b4c1a6f1.png"
+      },
+      "annotations": []
+    }
+  ],
+  "tables": [
+    {
+      "self_ref": "#/tables/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        }
+      ],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 62.15032196044922,
+            "t": 709.121467590332,
+            "r": 522.716552734375,
+            "b": 408.21087646484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/15"
+        }
+      ],
+      "references": [],
+      "footnotes": [
+        {
+          "$ref": "#/texts/16"
+        }
+      ],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 194.4021,
+              "t": 93.68140000000005,
+              "r": 224.85809999999998,
+              "b": 101.69899259259262,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "CHAPTER",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 361.9948,
+              "t": 93.68140000000005,
+              "r": 507.51579999999996,
+              "b": 101.69899259259262,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "RESPONSIBLE AGENCY/INTER-AGENCY BODY",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 72.25,
+              "t": 113.67599999999993,
+              "r": 238.48760000000001,
+              "b": 120.68345473908414,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Chapter 1: A Plan for Economic and Social Transformation",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 356.76,
+              "t": 113.67599999999993,
+              "r": 391.11999999999995,
+              "b": 120.68345473908414,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "NEDA Board",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 72.25,
+              "t": 130.17200000000003,
+              "r": 222.25559999999996,
+              "b": 137.17945473908424,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Chapter 2. Promote Human and Social Development",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 356.76,
+              "t": 130.17200000000003,
+              "r": 447.1664,
+              "b": 137.17945473908424,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Social Development Committee",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 72.25,
+              "t": 146.66790000000003,
+              "r": 257.0868,
+              "b": 153.67535473908424,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Chapter 3. Reduce Vulnerabilities and Protect Purchasing Power",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 356.76,
+              "t": 146.66790000000003,
+              "r": 449.2464,
+              "b": 153.67535473908424,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Economic Development Cluster*",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 72.25,
+              "t": 163.1639,
+              "r": 195.45719999999994,
+              "b": 170.17135473908422,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Chapter 4. Increase Income-earning Ability",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 356.76,
+              "t": 163.1639,
+              "r": 447.1664,
+              "b": 170.17135473908422,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Social Development Committee",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 72.25,
+              "t": 179.6599,
+              "r": 218.42359999999994,
+              "b": 186.6673547390842,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Chapter 5. Modernize Agriculture and Agribusiness",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 356.76,
+              "t": 179.6599,
+              "r": 449.2464,
+              "b": 186.6673547390842,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Economic Development Cluster*",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 72.25,
+              "t": 196.15589999999997,
+              "r": 156.20120000000003,
+              "b": 203.16335473908418,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Chapter 6. Revitalize Industry",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 356.76,
+              "t": 196.15589999999997,
+              "r": 449.2464,
+              "b": 203.16335473908418,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Economic Development Cluster*",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 72.25,
+              "t": 212.65179999999998,
+              "r": 165.06439999999998,
+              "b": 219.6592547390842,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Chapter 7. Reinvigorate Services",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 356.76,
+              "t": 212.65179999999998,
+              "r": 449.2464,
+              "b": 219.6592547390842,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Economic Development Cluster*",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 72.25,
+              "t": 229.14779999999996,
+              "r": 290.022,
+              "b": 236.15525473908417,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 8,
+            "end_row_offset_idx": 9,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Chapter 8. Advance Research and Development, Technology, and Innovation",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 356.76,
+              "t": 229.14779999999996,
+              "r": 435.07840000000004,
+              "b": 236.15525473908417,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 8,
+            "end_row_offset_idx": 9,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "National Innovation Council",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 72.25,
+              "t": 250.4438,
+              "r": 196.94439999999994,
+              "b": 257.4512547390842,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 9,
+            "end_row_offset_idx": 10,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Chapter 9. Promote Trade and Investments",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 356.76,
+              "t": 245.64379999999994,
+              "r": 501.6136000000001,
+              "b": 262.2512547390842,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 9,
+            "end_row_offset_idx": 10,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Inter-Agency Investment Promotions Coordination Committee; Committee on Tariff-Related Matters",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 72.25,
+              "t": 271.73969999999997,
+              "r": 268.7428000000001,
+              "b": 278.7471547390842,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 10,
+            "end_row_offset_idx": 11,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Chapter 10. Promote Competition and Improve Regulatory Efficiency",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 356.76,
+              "t": 271.73969999999997,
+              "r": 489.3016000000001,
+              "b": 278.7471547390842,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 10,
+            "end_row_offset_idx": 11,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Inter-Agency Committee on Good Governance",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 72.25,
+              "t": 288.23569999999995,
+              "r": 328.0212000000002,
+              "b": 295.2431547390841,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 11,
+            "end_row_offset_idx": 12,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Chapter 11. Ensure Macroeconomic Stability and Expand Inclusive and Innovative Finance",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 356.76,
+              "t": 288.23569999999995,
+              "r": 489.45360000000005,
+              "b": 295.2431547390841,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 11,
+            "end_row_offset_idx": 12,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Development Budget Coordination Committee",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 72.25,
+              "t": 304.7317,
+              "r": 208.27880000000005,
+              "b": 311.73915473908414,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 12,
+            "end_row_offset_idx": 13,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Chapter 12. Expand and Upgrade Infrastructure",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 356.76,
+              "t": 304.7317,
+              "r": 431.1424,
+              "b": 311.73915473908414,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 12,
+            "end_row_offset_idx": 13,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Infrastructure Committee",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 72.25,
+              "t": 326.02759999999995,
+              "r": 306.8779999999999,
+              "b": 333.0350547390841,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 13,
+            "end_row_offset_idx": 14,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Chapter 13. Ensure Peace and Security and Enhance the Administration of Justice",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 356.76,
+              "t": 321.2276,
+              "r": 483.5256,
+              "b": 337.8350547390841,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 13,
+            "end_row_offset_idx": 14,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "National Security Council and Justice Sector Coordinating Council",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 72.25,
+              "t": 347.3236,
+              "r": 289.4300000000001,
+              "b": 354.33105473908415,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 14,
+            "end_row_offset_idx": 15,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Chapter 14. Practice Good Governance and Improve Bureaucratic Efficiency",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 356.76,
+              "t": 347.3236,
+              "r": 489.3016000000001,
+              "b": 354.33105473908415,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 14,
+            "end_row_offset_idx": 15,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Inter-Agency Committee on Good Governance",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 72.25,
+              "t": 368.6196,
+              "r": 283.4620000000001,
+              "b": 375.62705473908414,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 15,
+            "end_row_offset_idx": 16,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Chapter 15. Accelerate Climate Action and Strengthen Disaster Resilience",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 356.76,
+              "t": 363.8196,
+              "r": 491.5496000000001,
+              "b": 380.42705473908416,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 15,
+            "end_row_offset_idx": 16,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Cabinet Cluster on Climate Change Adaptation, Mitigation, and Disaster Risk Reduction*",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 16,
+        "num_cols": 2,
+        "orientation": "rot_0",
+        "grid": [
+          [
+            {
+              "bbox": {
+                "l": 194.4021,
+                "t": 93.68140000000005,
+                "r": 224.85809999999998,
+                "b": 101.69899259259262,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "CHAPTER",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 361.9948,
+                "t": 93.68140000000005,
+                "r": 507.51579999999996,
+                "b": 101.69899259259262,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "RESPONSIBLE AGENCY/INTER-AGENCY BODY",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 72.25,
+                "t": 113.67599999999993,
+                "r": 238.48760000000001,
+                "b": 120.68345473908414,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Chapter 1: A Plan for Economic and Social Transformation",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 356.76,
+                "t": 113.67599999999993,
+                "r": 391.11999999999995,
+                "b": 120.68345473908414,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "NEDA Board",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 72.25,
+                "t": 130.17200000000003,
+                "r": 222.25559999999996,
+                "b": 137.17945473908424,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Chapter 2. Promote Human and Social Development",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 356.76,
+                "t": 130.17200000000003,
+                "r": 447.1664,
+                "b": 137.17945473908424,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Social Development Committee",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 72.25,
+                "t": 146.66790000000003,
+                "r": 257.0868,
+                "b": 153.67535473908424,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Chapter 3. Reduce Vulnerabilities and Protect Purchasing Power",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 356.76,
+                "t": 146.66790000000003,
+                "r": 449.2464,
+                "b": 153.67535473908424,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Economic Development Cluster*",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 72.25,
+                "t": 163.1639,
+                "r": 195.45719999999994,
+                "b": 170.17135473908422,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Chapter 4. Increase Income-earning Ability",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 356.76,
+                "t": 163.1639,
+                "r": 447.1664,
+                "b": 170.17135473908422,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Social Development Committee",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 72.25,
+                "t": 179.6599,
+                "r": 218.42359999999994,
+                "b": 186.6673547390842,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Chapter 5. Modernize Agriculture and Agribusiness",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 356.76,
+                "t": 179.6599,
+                "r": 449.2464,
+                "b": 186.6673547390842,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Economic Development Cluster*",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 72.25,
+                "t": 196.15589999999997,
+                "r": 156.20120000000003,
+                "b": 203.16335473908418,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Chapter 6. Revitalize Industry",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 356.76,
+                "t": 196.15589999999997,
+                "r": 449.2464,
+                "b": 203.16335473908418,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Economic Development Cluster*",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 72.25,
+                "t": 212.65179999999998,
+                "r": 165.06439999999998,
+                "b": 219.6592547390842,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Chapter 7. Reinvigorate Services",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 356.76,
+                "t": 212.65179999999998,
+                "r": 449.2464,
+                "b": 219.6592547390842,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Economic Development Cluster*",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 72.25,
+                "t": 229.14779999999996,
+                "r": 290.022,
+                "b": 236.15525473908417,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 9,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Chapter 8. Advance Research and Development, Technology, and Innovation",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 356.76,
+                "t": 229.14779999999996,
+                "r": 435.07840000000004,
+                "b": 236.15525473908417,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 9,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "National Innovation Council",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 72.25,
+                "t": 250.4438,
+                "r": 196.94439999999994,
+                "b": 257.4512547390842,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 9,
+              "end_row_offset_idx": 10,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Chapter 9. Promote Trade and Investments",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 356.76,
+                "t": 245.64379999999994,
+                "r": 501.6136000000001,
+                "b": 262.2512547390842,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 9,
+              "end_row_offset_idx": 10,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Inter-Agency Investment Promotions Coordination Committee; Committee on Tariff-Related Matters",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 72.25,
+                "t": 271.73969999999997,
+                "r": 268.7428000000001,
+                "b": 278.7471547390842,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 10,
+              "end_row_offset_idx": 11,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Chapter 10. Promote Competition and Improve Regulatory Efficiency",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 356.76,
+                "t": 271.73969999999997,
+                "r": 489.3016000000001,
+                "b": 278.7471547390842,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 10,
+              "end_row_offset_idx": 11,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Inter-Agency Committee on Good Governance",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 72.25,
+                "t": 288.23569999999995,
+                "r": 328.0212000000002,
+                "b": 295.2431547390841,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 11,
+              "end_row_offset_idx": 12,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Chapter 11. Ensure Macroeconomic Stability and Expand Inclusive and Innovative Finance",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 356.76,
+                "t": 288.23569999999995,
+                "r": 489.45360000000005,
+                "b": 295.2431547390841,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 11,
+              "end_row_offset_idx": 12,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Development Budget Coordination Committee",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 72.25,
+                "t": 304.7317,
+                "r": 208.27880000000005,
+                "b": 311.73915473908414,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 12,
+              "end_row_offset_idx": 13,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Chapter 12. Expand and Upgrade Infrastructure",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 356.76,
+                "t": 304.7317,
+                "r": 431.1424,
+                "b": 311.73915473908414,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 12,
+              "end_row_offset_idx": 13,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Infrastructure Committee",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 72.25,
+                "t": 326.02759999999995,
+                "r": 306.8779999999999,
+                "b": 333.0350547390841,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 13,
+              "end_row_offset_idx": 14,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Chapter 13. Ensure Peace and Security and Enhance the Administration of Justice",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 356.76,
+                "t": 321.2276,
+                "r": 483.5256,
+                "b": 337.8350547390841,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 13,
+              "end_row_offset_idx": 14,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "National Security Council and Justice Sector Coordinating Council",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 72.25,
+                "t": 347.3236,
+                "r": 289.4300000000001,
+                "b": 354.33105473908415,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 14,
+              "end_row_offset_idx": 15,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Chapter 14. Practice Good Governance and Improve Bureaucratic Efficiency",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 356.76,
+                "t": 347.3236,
+                "r": 489.3016000000001,
+                "b": 354.33105473908415,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 14,
+              "end_row_offset_idx": 15,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Inter-Agency Committee on Good Governance",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 72.25,
+                "t": 368.6196,
+                "r": 283.4620000000001,
+                "b": 375.62705473908414,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 15,
+              "end_row_offset_idx": 16,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Chapter 15. Accelerate Climate Action and Strengthen Disaster Resilience",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 356.76,
+                "t": 363.8196,
+                "r": 491.5496000000001,
+                "b": 380.42705473908416,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 15,
+              "end_row_offset_idx": 16,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Cabinet Cluster on Climate Change Adaptation, Mitigation, and Disaster Risk Reduction*",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    }
+  ],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image": {
+        "mimetype": "image/png",
+        "dpi": 144,
+        "size": {
+          "width": 1224.0,
+          "height": 1584.0
+        },
+        "uri": "Chapter-16_artifacts/page_000001_9f08e4fbdc835b77e8e2bfa49620ca00742a94e41654bae4d4f593fe51219df6.png"
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image": {
+        "mimetype": "image/png",
+        "dpi": 144,
+        "size": {
+          "width": 1224.0,
+          "height": 1584.0
+        },
+        "uri": "Chapter-16_artifacts/page_000002_9e42baaf9b7de8fe155b6cb9c373d068b8cde6d3177f2d6735791942d78515cb.png"
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image": {
+        "mimetype": "image/png",
+        "dpi": 144,
+        "size": {
+          "width": 1224.0,
+          "height": 1584.0
+        },
+        "uri": "Chapter-16_artifacts/page_000003_d24946e22d481a7c31f1a777601b8966009746e18ef663b4c0735d750db2c2c1.png"
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image": {
+        "mimetype": "image/png",
+        "dpi": 144,
+        "size": {
+          "width": 1224.0,
+          "height": 1584.0
+        },
+        "uri": "Chapter-16_artifacts/page_000004_9e42baaf9b7de8fe155b6cb9c373d068b8cde6d3177f2d6735791942d78515cb.png"
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image": {
+        "mimetype": "image/png",
+        "dpi": 144,
+        "size": {
+          "width": 1224.0,
+          "height": 1584.0
+        },
+        "uri": "Chapter-16_artifacts/page_000005_71abf1e7ed660200e91aa48a37fcadd9712e3fde9fd800886f5baf14b104c50c.png"
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image": {
+        "mimetype": "image/png",
+        "dpi": 144,
+        "size": {
+          "width": 1224.0,
+          "height": 1584.0
+        },
+        "uri": "Chapter-16_artifacts/page_000006_582bd27be9fca5f6a06fdc354d357858dd618faf6fc6ade836663d9097cb4886.png"
+      },
+      "page_no": 6
+    },
+    "7": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image": {
+        "mimetype": "image/png",
+        "dpi": 144,
+        "size": {
+          "width": 1224.0,
+          "height": 1584.0
+        },
+        "uri": "Chapter-16_artifacts/page_000007_8613308ff77403d77a8f797902a44d07de6883b8fa92cd926c9d4c090c9f7227.png"
+      },
+      "page_no": 7
+    },
+    "8": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image": {
+        "mimetype": "image/png",
+        "dpi": 144,
+        "size": {
+          "width": 1224.0,
+          "height": 1584.0
+        },
+        "uri": "Chapter-16_artifacts/page_000008_73ccdbdf9c4ec833979eb70babe1db06360de9f4407fdb38e40da5c9865191c9.png"
+      },
+      "page_no": 8
+    },
+    "9": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image": {
+        "mimetype": "image/png",
+        "dpi": 144,
+        "size": {
+          "width": 1224.0,
+          "height": 1584.0
+        },
+        "uri": "Chapter-16_artifacts/page_000009_ea4555e8e8c960960cb884139d96db031cdf1b28ba9497f06f2e44d0047f566a.png"
+      },
+      "page_no": 9
+    },
+    "10": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image": {
+        "mimetype": "image/png",
+        "dpi": 144,
+        "size": {
+          "width": 1224.0,
+          "height": 1584.0
+        },
+        "uri": "Chapter-16_artifacts/page_000010_ec7b98f66eb38663f7765e8fcc2644eab52e746bde8dea78a3aeee94591b098d.png"
+      },
+      "page_no": 10
+    },
+    "11": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image": {
+        "mimetype": "image/png",
+        "dpi": 144,
+        "size": {
+          "width": 1224.0,
+          "height": 1584.0
+        },
+        "uri": "Chapter-16_artifacts/page_000011_21fdaea47acda825d40102e1f16dc86699329f91a218f5f40ec6dbb6e378e6ec.png"
+      },
+      "page_no": 11
+    },
+    "12": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image": {
+        "mimetype": "image/png",
+        "dpi": 144,
+        "size": {
+          "width": 1224.0,
+          "height": 1584.0
+        },
+        "uri": "Chapter-16_artifacts/page_000012_9e42baaf9b7de8fe155b6cb9c373d068b8cde6d3177f2d6735791942d78515cb.png"
+      },
+      "page_no": 12
+    }
+  }
+}

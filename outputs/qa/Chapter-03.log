@@ -1,0 +1,9 @@
+2026-11-26 15:46:41,601	INFO	docling.document_converter: Going to convert document batch...
+2026-11-26 15:46:41,602	INFO	docling.document_converter: Initializing pipeline for StandardPdfPipeline with options hash 531cb5f904b26992455ca5a647aa60c8
+2026-11-26 15:46:41,632	INFO	docling.models.utils.hf_model_download: Fetching model docling-project/docling-layout-heron (revision: main)...
+2026-11-26 15:46:41,991	INFO	docling.models.utils.hf_model_download: Model docling-project/docling-layout-heron already cached at C:\Users\admin\.cache\huggingface\hub\models--docling-project--docling-layout-heron\snapshots\8f39ad3c0b4c58e9c2d2c84a38465abf757272d8
+Loading weights:   0%|          | 0/770 [00:00<?, ?it/s]Loading weights:  31%|###1      | 242/770 [00:00<00:00, 2414.33it/s]Loading weights:  63%|######2   | 484/770 [00:00<00:00, 1937.95it/s]Loading weights: 100%|##########| 770/770 [00:00<00:00, 2869.36it/s]
+2026-11-26 15:46:42,774	INFO	docling.models.utils.hf_model_download: Fetching model docling-project/docling-models (revision: v2.3.0)...
+2026-11-26 15:46:43,050	INFO	docling.models.utils.hf_model_download: Model docling-project/docling-models already cached at C:\Users\admin\.cache\huggingface\hub\models--docling-project--docling-models\snapshots\fc0f2d45e2218ea24bce5045f58a389aed16dc23
+2026-11-26 15:46:43,610	INFO	docling.pipeline.base_pipeline: Processing document Chapter-03.pdf
+2026-11-26 15:47:47,162	INFO	docling.document_converter: Finished converting document Chapter-03.pdf in 65.97 sec.
