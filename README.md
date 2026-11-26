@@ -12,7 +12,7 @@ This is a research resource, not an official government publication or a complet
 
 The central purpose of this extraction is to make PDP objectives and PIP investments usable by MCP or API tools for comparison with other public records.
 
-The full chapter corpus provides the source material for this work. [`index.html`](index.html) demonstrates a partial version of that workflow using Chapter 4, "Increase Income-earning Ability."
+The full chapter corpus provides the source material for this work. The repository's `index.html` demonstrates a partial version of that workflow using Chapter 4, "Increase Income-earning Ability."
 
 It:
 
@@ -49,11 +49,11 @@ A few notes about the extracted files:
 - Some PIP CSV files are separated by PDP subchapter.
 - Files containing `subprojects` represent secondary-tab data from the original PIP Excel workbooks, where available.
 - The `qa/` directory contains extraction and conversion logs for the PDP PDFs and PIP Excel workbooks.
-- The [PIP CSV manifest](outputs/extractions/qa/PIP-2023-2028-csv-manifest.md) lists the exported files and explains how they were prepared.
+- The `PIP-2023-2028-csv-manifest.md` file lists the exported CSV files and explains how they were prepared.
 
-## Using the data
+## Using the extracted data
 
-Start with a chapter's `Chapter-NN-core-objective.md`, then review its extracted text and PIP CSV files. Use the corresponding PDP PDF or PIP workbook to confirm context and source details.
+Start with a chapter's `Chapter-NN-core-objective.md`, then review its extracted text and PIP CSV files. Use the corresponding source PDP PDF or PIP workbook to confirm context and source details.
 
 A PIP investment target is planned funding; it does not show that money was appropriated, released, spent, or that a project was delivered. Appropriations, allotments, obligations, and disbursements are distinct budget stages.
 
@@ -88,7 +88,3 @@ These classifications describe different aspects of a project. They should not b
 - [Public Investment Program information](https://depdev.gov.ph/public-investment-programs/)
 
 Please credit the original government sources when reusing their materials and follow any applicable source terms.
-
-## Contributions
-
-Corrections, validation, and improvements are welcome. If you identify an extraction error or an issue with a project record, please include the source document, page or worksheet, and relevant details when reporting it.
