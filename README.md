@@ -10,18 +10,17 @@ This is a research resource, not an official government publication or a complet
 
 ## POC/MVP: A Chapter 4 example
 
-The central purpose of this extraction is to make PDP objectives and PIP investments usable by MCP or API tools for comparison with other public records.
+The central purpose of this extraction is to make PDP objectives and PIP investment data usable by MCP or API tools for comparison with other public records.
 
-The full chapter corpus provides the source material for this work. The repository's `index.html` demonstrates a partial version of that workflow using Chapter 4, "Increase Income-earning Ability."
+The `index.html` demonstrates what tracing development commitments from planning to delivered outcomes might look like, using Chapter 4, "Increase Income-earning Ability."
 
-It:
+The example `index.html`:
+1. Summarizes the chapter's development objectives using the extracted PDP chapter.
+2. Reviews PIP investment targets for related projects using the converted CSV files.
+3. Presents FY2026 GAA appropriation research cross-checked through [BetterGov MCP](https://budget.bettergov.ph/docs#mcp).
+4. Presents selected 20th Congress bills identified through [Bills Juris MCP](https://bills.juris.ph/mcp), including their legislative status.
 
-- summarizes the chapter's development objectives;
-- reviews PIP investment targets for related projects;
-- presents FY2026 GAA appropriation research cross-checked through [BetterGov MCP](https://budget.bettergov.ph/docs#mcp); and
-- presents selected 20th Congress bills identified through [Bills Juris MCP](https://bills.juris.ph/mcp), including their legislative status.
-
-These comparisons are the project's core use of the extracted material. Matches are leads for source-based review; they do not by themselves establish that a budget line funds a particular project or that a bill advances an objective.
+Steps 3 and 4 demonstrate how the extracted material can be used alongside external MCP (or API) data sources. Matches are leads for source-based review; they do not by themselves establish that a budget line funds a particular project or that a bill advances an objective.
 
 ## What's in the repository
 
