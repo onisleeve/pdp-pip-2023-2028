@@ -8,7 +8,7 @@ The goal is to trace commitments through appropriations, implementation, and—w
 
 This is a research resource, not an official government publication or a complete account of public spending.
 
-## POCMVP A Chapter 4 example
+## POC/MVP - A Chapter 4 example
 
 The central purpose of this extraction is to make PDP objectives and PIP investment data usable by MCP or API tools for comparison with other public records.
 
